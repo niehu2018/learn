@@ -1,0 +1,7 @@
+cat index.html\?term\=SRR5479596  | grep "<title>GSM" | sed 's/.*GSM/GSM/'| sed 's/;.*//'| sed 's/: /    /' 
+cat index.html\?term\=SRR5479599  | grep "<title>GSM" | sed 's/.*GSM/GSM/'| sed 's/;.*//'| sed 's/: /    /' 
+cat index.html\?term\=SRR5479628  | grep "<title>GSM" | sed 's/.*GSM/GSM/'| sed 's/;.*//'| sed 's/: /    /' 
+cat index.html\?term\=SRR5479636  | grep "<title>GSM" | sed 's/.*GSM/GSM/'| sed 's/;.*//'| sed 's/: /    /' 
+cat index.html\?term\=SRR5479644  | grep "<title>GSM" | sed 's/.*GSM/GSM/'| sed 's/;.*//'| sed 's/: /    /' 
+cat index.html\?term\=SRR5479654  | grep "<title>GSM" | sed 's/.*GSM/GSM/'| sed 's/;.*//'| sed 's/: /    /' 
+cat index.html\?term\=SRR5479663  | grep "<title>GSM" | sed 's/.*GSM/GSM/'| sed 's/;.*//'| sed 's/: /    /' 
