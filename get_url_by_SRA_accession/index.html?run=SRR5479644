@@ -1,0 +1,1048 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<link rel="canonical" href="https://www.ncbi.nlm.nih.gov/Traces/sra?run=SRR5479644">
+<title>Run Browser : Browse  :
+            Sequence Read Archive  :
+            NCBI/NLM/NIH</title>
+<link href="https://www.ncbi.nlm.nih.gov/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<meta name="keywords" content="sra, sequence read archive, national center for biotechnology information, ncbi,          national library of medicine, nlm, national institutes of health, nih, database, archive, bioinformatics, biomedicine,          trace archive, whole genome shotgun, raw sequence, megablast">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,nofollow,noarchive">
+<meta http-equiv="X-UA-Compatible" content="edge,chrome=1">
+<meta name="galert_type" content="default">
+<script type="text/javascript" src="https://www.ncbi.nlm.nih.gov/core/jquery/jquery-1.12.4.min.js"></script><script type="text/javascript">
+            jQuery.getScript("/core/alerts/alerts.js", function () {
+            galert(['div#gsd'])
+            });
+        </script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/utils.1.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/stop_js_include.1.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/firebugx.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/notify.1.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/data_provider.1.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/remote_data_provider.1.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/gui.3.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/session.1.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/tabmenu.1.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/panel.1.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/window.1.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/toggler.1.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/expander.1.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/sort_table.1.js"></script><script type="text/javascript" src="../cluster/web/../../core/lw/2.0/js/mail_form.1/mail_form.1.js"></script><script type="text/javascript" src="../cluster/web/cluster.js"></script><link href="../cluster/web/../../core/lw/2.0/css/gui.3/gui.3.css" type="text/css" rel="stylesheet">
+<link href="../cluster/web/../../core/lw/2.0/css/gui.3/expander.1.css" type="text/css" rel="stylesheet">
+<link href="../cluster/web/../../core/lw/2.0/css/gui.3/tabmenu.1.css" type="text/css" rel="stylesheet">
+<link href="../cluster/web/../../core/lw/2.0/css/mail_form.1/mail_form_trace.css" type="text/css" rel="stylesheet">
+<link href="../cluster/web/global.css" type="text/css" media="all" rel="stylesheet">
+<link href="../cluster/web/cluster.css" type="text/css" media="all" rel="stylesheet">
+<title>Sequence Read Archive</title>
+<meta name="ncbi_app" content="sra_web">
+<meta name="ncbi_db" content="sra">
+<link href="style.css" type="text/css" media="all" rel="stylesheet">
+<script type="text/javascript" src="../core/lw/2.0/js/web_forms.1.js"></script><script type="text/javascript" src="../core/lw/2.0/js/esummary.1.js"></script><script type="text/javascript" src="js/esummary_sra.js"></script><script type="text/javascript" src="js/sra.js"></script><link href="js/viewer.css" type="text/css" media="all" rel="stylesheet">
+<link href="../core/lw/2.0//css/gui.3/tab.1.css" type="text/css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="../traceviewer/traceviewer.css" type="text/css">
+<script type="text/javascript" src="../core/lw/2.0/js/scroll_table.1.js"></script><script type="text/javascript" src="../core/lw/2.0/js/gui.3.js"></script><script type="text/javascript" src="../core/lw/2.0/js/session.1.js"></script><script type="text/javascript" src="../core/lw/2.0/js/tab.1.js"></script><script type="text/javascript" src="../core/lw/2.0/js/tree_static.1.js"></script><script type="text/javascript" src="../core/lw/2.0/js/drag_n_drop.1.js"></script><script type="text/javascript" src="js/spot_signal.js"></script><script type="text/javascript" src="js/spinner.js"></script><script type="text/javascript" src="js/pager.js"></script><script type="text/javascript" src="js/spot_list.js"></script><script type="text/javascript" src="js/spot_data.js"></script><script type="text/javascript" src="js/spot_customize.js"></script><script type="text/javascript" src="js/app.js"></script><script type="text/javascript" src="../traceviewer/traceviewer.js"> </script>
+</head><body><a href="#maincontent" id="skip-to-maincontent">skip to main content</a><div id="header-global">
+<div id="site-logo" class="branding"><strong id="ncbi-logo" class="logo"><a href="https://ncbi.nlm.nih.gov" accesskey="1" title="NCBI Home (access key '1')"><img src="../cluster/web//i/ncbi-logo-small_369_.gif" alt="NCBI" align="absmiddle"></a></strong></div>
+<div id="global-nav"><form method="get" action="https://www.ncbi.nlm.nih.gov/entrez" target="_blank"><ul class="pipelist2l">
+<li><a href="https://www.ncbi.nlm.nih.gov/Sitemap/index.html" title="NCBI Site Map">Site map</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/gquery/gquery.fcgi" title="Global Cross-database NCBI Search">All databases</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/feed/rss.cgi?ChanKey=sranews" title="Brief annoucements for new features and pipeline changes to the Sequence Read Archive."><img src="../cluster/web/i/feed-icon-14x14.png" alt="RSS Feed" align="absmiddle" border="0"></a></li>
+<li id="ph-global-search">
+<a href="#gloabal-search" onclick="return Cluster.toggleSearch(this)">Search</a> <span id="gloabal-search" class="invis"><label for="term">
+                                for <input type="text" name="term" id="term" size="24"></label> <label for="id-db">
+                                within <select name="db" id="id-db"><option value="pubmed">PubMed</option>
+<option value="protein">Protein</option>
+<option value="nuccore">Nucleotide</option>
+<option value="nucgss">GSS</option>
+<option value="nucest">EST</option>
+<option value="structure">Structure</option>
+<option value="genome">Genome</option>
+<option value="assembly">Assembly</option>
+<option value="bioproject">BioProject</option>
+<option value="biosample">BioSample</option>
+<option value="books">Books</option>
+<option value="cdd">Conserved Domains</option>
+<option value="clinvar">ClinVar</option>
+<option value="clone">Clone</option>
+<option value="gap">dbGaP</option>
+<option value="dbvar">DbVar</option>
+<option value="epigenomics">Epigenomics</option>
+<option value="gene">Gene</option>
+<option value="gds">GEO Datasets</option>
+<option value="geoprofiles">GEO Profiles</option>
+<option value="homologene">HomoloGene</option>
+<option value="medgen">MedGen</option>
+<option value="mesh">MeSH</option>
+<option value="nlmcatalog">NLM Catalog</option>
+<option value="ncbisearch">NCBI Web Site</option>
+<option value="omia">OMIA</option>
+<option value="omim">OMIM</option>
+<option value="pmc">PMC</option>
+<option value="popset">PopSet</option>
+<option value="probe">Probe</option>
+<option value="proteinclusters">Protein Clusters</option>
+<option value="pcassay">PubChem BioAssay</option>
+<option value="biosystems">BioSystems</option>
+<option value="pccompound">PubChem Compound</option>
+<option value="pcsubstance">PubChem Substance</option>
+<option value="pubmedhealth">PubMed Health</option>
+<option value="snp">SNP</option>
+<option value="sra">SRA</option>
+<option value="taxonomy">Taxonomy</option>
+<option value="toolkit">ToolKit</option>
+<option value="toolkitall">ToolKitAll</option>
+<option value="toolkitbook">ToolKitBook</option>
+<option value="unigene">UniGene</option>
+<option value="unists">UniSTS</option></select></label> <input type="submit" name="submit" value="Search"></span>
+</li>
+</ul></form></div>
+</div><div id="header-local">
+<div id="prj-logo" class="branding"><strong id="sra-logo" class="logo"><a title="to Sequence Read Archive Main Page" href="../sra"><span> </span><img src="i/sra_logo_eee.gif" alt="Sequence Read Archives logo"></a></strong></div>
+<div id="toolbox"></div>
+<div id="local-nav"><ul class="tabmenu" id="tabmenu">
+<li>
+<a title="Sequence Read Archive Main Page" href="../sra/sra.cgi?view=announcement"><span>Main</span></a><ul>
+<li><a title="Announcements, Notifications and News" href="../sra/sra.cgi?view=announcement"><span>Overview</span></a></li>
+<!--[if gte IE 5]><iframe></iframe><![endif]-->
+</ul>
+</li>
+<li id="tabmenu_current" class="selected">
+<a title="Get SRA Data" href="../sra/sra.cgi?view=studies"><span>Browse</span></a><ul>
+<li><a title="List of Sequence Read Archive Studies" href="../sra/sra.cgi?view=studies"><span>Studies</span></a></li>
+<li><a title="List of Sequence Read Archive Samples" href="../sra/sra.cgi?view=samples"><span>Samples</span></a></li>
+<li><a title="List of Sequence Read Archive Analyses" href="../sra/sra.cgi?view=analysis"><span>Analyses</span></a></li>
+<li class="subcurrent"><a title="Sequence Read Archive Run Browser" href="../sra/sra.cgi?view=run_browser"><span>Run Browser</span></a></li>
+<li><a title="Select Runs using Run Selector Tool" href="../study/?go=home"><span>Run Selector</span></a></li>
+<li><a title="Submissions to the Provisional Sequence Read Archive" href="../sra/sra.cgi?view=provisional"><span>Provisional SRA</span></a></li>
+<!--[if gte IE 5]><iframe></iframe><![endif]-->
+</ul>
+</li>
+<li>
+<a title="Search and Filter individual reads" href="../sra/sra.cgi?view=search_obj"><span>Search</span></a><ul>
+<li><a title="Search for Short Read Objects" href="../sra/sra.cgi?view=search_obj"><span>SRA Objects</span></a></li>
+<li><a title="Search SRA sequences using BLAST" href="https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&amp;BLAST_PROGRAMS=megaBlast&amp;PAGE_TYPE=BlastSearch&amp;BLAST_SPEC=SRA&amp;SHOW_DEFAULTS=on&amp;DB_GROUP=Exp&amp;view=search_blast"><span>BLAST</span></a></li>
+<li><a title="Search NCBI's Entrez system of interlinked databases in various ways" href="../sra/sra.cgi?view=search_entrez"><span>Entrez</span></a></li>
+<!--[if gte IE 5]><iframe></iframe><![endif]-->
+</ul>
+</li>
+<li>
+<a title="Download Data" href="../sra/sra.cgi?view=download_reads"><span>Download</span></a><ul>
+<li><a title="Downloading SRA data in either fasta or fastq format" href="../sra/sra.cgi?view=search_seq_name"><span>FASTA/FASTQ</span></a></li>
+<li><a title="Download Reads in SRA Formats" href="../sra/sra.cgi?view=download_reads"><span>Reads</span></a></li>
+<li><a title="Download data by Analysis" href="../sra/sra.cgi?view=download_analyses"><span>Analyses </span></a></li>
+<li><a title="Mirroring SRA Data" href="../sra/sra.cgi?view=mirroring"><span>Mirroring</span></a></li>
+<li><a title="References Collection" href="../sra/sra.cgi?view=references"><span>References</span></a></li>
+<!--[if gte IE 5]><iframe></iframe><![endif]-->
+</ul>
+</li>
+<li>
+<a title="" href="../sra_sub/sub.cgi?view=submissions"><span>Submit</span></a><ul>
+<li><a title="Tracking statuses and editing/creating sra submissions." href="../sra_sub/sub.cgi?view=submissions"><span>Submissions</span></a></li>
+<li><a title="Tracking submitted files, their statuses and produced SRA objects." href="../sra_sub/sub.cgi?page=tracking&amp;view=submissions_tracking"><span>Tracking</span></a></li>
+<li><a title="Editing preferred name, email, affiliated organizaiton etc." href="../sra_sub/sub.cgi?page=preferences&amp;view=submissions_preferences"><span>Preferences</span></a></li>
+<li><a title="Data submission to NCBI (SRA)." href="https://www.ncbi.nlm.nih.gov/sra/docs/submit" target="_blank"><span>Getting started</span></a></li>
+<li><a title="Frequently Asked Questions" href="https://www.ncbi.nlm.nih.gov/sra/docs/submitquestions"><span>FAQ</span></a></li>
+<!--[if gte IE 5]><iframe></iframe><![endif]-->
+</ul>
+</li>
+<li>
+<a title="Software for using and preparing SRA data sets" href="../sra/sra.cgi?view=software"><span>Software</span></a><ul>
+<li><a title="Software for using and preparing SRA data sets" href="../sra/sra.cgi?view=software"><span>Download</span></a></li>
+<li><a title="SRA Toolkit Documentation" href="../sra/sra.cgi?view=toolkit_doc"><span>Toolkit Documentation</span></a></li>
+<li><a title="Sequence SRA XML Schemas" href="../sra/sra.cgi?view=xml_schemas"><span>XML Schema</span></a></li>
+<!--[if gte IE 5]><iframe></iframe><![endif]-->
+</ul>
+</li>
+<li class="related first">
+<a title="Trace Archive" href="../?view=list_arrivals"><span>Trace Archive
+    </span></a><ul>
+<li><a title="Trace Archive Main Page" href="../?view=list_arrivals"><span>Main</span></a></li>
+<li><a title="How to obtain data" href="../?view=search"><span>Obtaining Data</span></a></li>
+<li><a title="Display Archive Statistics" href="../?view=statistics"><span>Statistics</span></a></li>
+<li><a title="Tracking submissions" href="../?view=tracking"><span>Tracking</span></a></li>
+<li><a title="Trace Archive Documentation" href="../?view=doc_goals"><span>Documentation</span></a></li>
+<!--[if gte IE 5]><iframe></iframe><![endif]-->
+</ul>
+</li>
+<li class="related"><a title="Trace Assembly" href="../assembly?view=taxonomy_tree"><span>
+  Trace Assembly
+  </span></a></li>
+<li class="related"><a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Nucleotides&amp;PROGRAM=blastn&amp;BLAST_SPEC=TraceArchive&amp;BLAST_PROGRAMS=megaBlast&amp;PAGE_TYPE=BlastSearch" title="Trace Basic Local Alignment Search Tool"><span>Trace BLAST</span></a></li>
+</ul></div>
+</div><noscript><div class="warning">Warning: The NCBI web site requires JavaScript for full functionality.<a href="https://www.ncbi.nlm.nih.gov/corehtml/query/static/unsupported-browser.html#enablejs">more...</a>
+</div></noscript><div id="gsd"></div><div id="maincontent">
+<script type="text/javascript">var oRuntimeData = {
+MEMBER: {
+"default":"SRS2148038"
+} 
+};</script><div id="sra-viewer-app">
+<div id="error-message" class="error" style="display:none">
+<div> </div>
+<button>Hide message</button>
+</div>
+<div class="page-title">
+<div class="expand closed">
+<a href="#" class="expand-handler"><label class="more" for="run-accession">
+              Change accession...
+            </label><label class="less" for="run-accession">
+              Change accession:
+            </label></a><span class="expand-body"><form method="get" action="?" style="display:inline;">
+               
+              <input type="text" name="run" id="run-accession" value="SRR5479644" size="10">
+               
+              <input type="submit" value="Search">
+</form></span>
+</div>
+<h2>GSM2588610: E75Epi Input; Mus musculus; ChIP-Seq<span>(SRR5479644)</span>
+</h2>
+</div>
+<ul class="gui-tab" rel="menu1">
+<li rel="meta"><a href="#"><span>Metadata</span></a></li>
+<li rel="analysis"><a href="#"><span>Analysis</span></a></li>
+<li rel="reads"><a href="#"><span>Reads</span></a></li>
+<li rel="download"><a href="#"><span>Data access</span></a></li>
+</ul>
+<div class="section menu-content menu1 meta" style="display:none">
+<div class="ph run"><div>
+<table class="zebra run-metatable">
+<tr>
+<th>Run</th>
+<th>Spots</th>
+<th>Bases</th>
+<th>Size</th>
+<th>GC content</th>
+<th>Published</th>
+<th>Access Type</th>
+</tr>
+<tr>
+<td><div title="Primary Id">SRR5479644</div></td>
+<td><span id="total_spots">29.5<span class="file-size mb">M</span></span></td>
+<td align="right">7.4<span class="file-size gb">G</span>bp</td>
+<td align="right">2.6<span class="file-size gb">G</span>
+</td>
+<td>46%</td>
+<td>2018-04-13</td>
+<td>public</td>
+</tr>
+</table>
+<style>
+      .run-metatable, .quality-count-ph, .spot-descriptor table {width:700px;}
+      .quality-count-ph div > span  {padding-right:2px;}
+    </style>
+<div id="id-quality-count-ph" class="quality-count-ph">
+<p>Quality graph <a href="#" onclick="return QualCntGraph()">(bigger)</a><a href="#" onclick="return QualCntGraph()" class="big-graph">(smaller)</a></p>
+<div>
+<span title="2 : 73,690,542" style="width:114px"><span style="height:0.7%;width:100%"> </span></span><span title="14 : 223,954,378" style="width:114px"><span style="height:3.2%;width:100%"> </span></span><span title="22 : 29,739,790" style="width:114px"><span style="height:0%;width:100%"> </span></span><span title="27 : 220,893,626" style="width:114px"><span style="height:3.1%;width:100%"> </span></span><span title="33 : 662,297,466" style="width:114px"><span style="height:10.3%;width:100%"> </span></span><span title="37 : 6,173,037,948" style="width:114px"><span style="height:100%;width:100%"> </span></span>
+</div>
+<div class="axis-x" style="width:696px">
+<span class="left">2</span><span class="right">37</span>
+</div>
+<div class="center">Phred quality score</div>
+</div>
+<div class="spot-descriptor">
+<p>This run has 2 reads per spot:</p>
+<table cellpadding="0" cellspacing="0" width="700"><tbody><tr>
+<td class="Application Read" style="min-width:349px;" title="Application Read #0, average length: 125, stdev: 0, 100%">L=125, 100%</td>
+<td class="read-spacer"></td>
+<td class="Application Read" style="min-width:349px;" title="Application Read #1, average length: 125, stdev: 0, 100%">L=125, 100%</td>
+<td class="read-spacer"></td>
+</tr></tbody></table>
+<div class="help-container xinline spot-descriptor-help"><dl class="expand closed">
+<dt><a class="expand-handler" href="#"><span>Legend</span></a></dt>
+<dd class="expand-body"><table>
+<tr>
+<td class="Technical Read" width="100"> </td>
+<td> </td>
+<td>Technical read</td>
+</tr>
+<tr>
+<td class="Application Read" width="300"> </td>
+<td> </td>
+<td>Application Read</td>
+</tr>
+<tr>
+<td class="Read" width="300">L=4, 100%</td>
+<td> </td>
+<td>Length is 4, 100% spots contain this read</td>
+</tr>
+<tr>
+<td class="Read" width="300">̅L=165, σ=92.8, 66%</td>
+<td> </td>
+<td>Average length is 165, standard deviation is 92.8, 66% spots contain this read</td>
+</tr>
+</table></dd>
+</dl></div>
+</div>
+</div></div>
+<div class="ph experiment"><div><table class="zebra">
+<tr>
+<th>Experiment</th>
+<th>Library Name</th>
+<th>Platform</th>
+<th>Strategy</th>
+<th>Source</th>
+<th>Selection</th>
+<th>Layout</th>
+<th>Action</th>
+</tr>
+<tr>
+<td><a id="exp-accession" href="https://www.ncbi.nlm.nih.gov/sra/SRX2763472">SRX2763472</a></td>
+<td></td>
+<td>Illumina</td>
+<td>ChIP-Seq</td>
+<td>GENOMIC</td>
+<td>ChIP</td>
+<td>PAIRED</td>
+<td valign="top"><a href="https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?PROGRAM=blastn&amp;BLAST_PROGRAMS=megaBlast&amp;PAGE_TYPE=BlastSearch&amp;BLAST_SPEC=SRA&amp;DB_GROUP=Exp&amp;NUM_ORG=1&amp;EQ_MENU=SRX2763472" target="_blank" title="Send this experiment to BLAST"><button>BLAST</button></a></td>
+</tr>
+</table></div></div>
+<div class="ph sample"><div><table class="zebra">
+<tr>
+<th>Biosample</th>
+<th>Sample Description</th>
+<th>Organism</th>
+<th>Links</th>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://www.ncbi.nlm.nih.gov/biosample/SAMN06829456">SAMN06829456</a>
+              (SRS2148038)
+            </td>
+<td valign="top"></td>
+<td valign="top"><a href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=10090">Mus musculus</a></td>
+<td valign="top"><a href="https://www.ncbi.nlm.nih.gov//bioproject/384169" rel="384169" class="bioproject_id">PRJNA384169</a></td>
+</tr>
+</table></div></div>
+<div class="ph study"><div>
+<table class="zebra" style="max-width:40em">
+<tr>
+<th>Bioproject</th>
+<th>SRA Study</th>
+<th>Title</th>
+</tr>
+<tr>
+<td valign="top"><a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA384169">PRJNA384169</a></td>
+<td valign="top"><a href="?study=SRP105176">SRP105176</a></td>
+<td>Reprogramming of H3K9me3-dependent heterochromatin during mammalian early embryo development [ChIP-seq]</td>
+</tr>
+</table>
+<div class="expand closed">
+<a href="#" class="expand-handler"><span class="more">Show abstract</span><span class="less">Hide abstract</span></a><div class="expand-body readable abstract"><p>H3K9me3-dependent heterochromatin is considered as one of the major barriers for cell fate changes, and must be reprogrammed during fertilization to reactivate highly specialized paternal and maternal genome to establish totipotency. However, the molecular details are lacked for early embryos due to the limited materials. Here we map the genome-wide distribution of H3K9me3 modification in the early embryo as well as in the cell fate determined embryonic tissues after implantation. We find that H3K9me3 exhibits distinct dynamic features in promoters and retro-transposons. Both maternal and paternal genome undergo large scale of H3K9me3 reestablishment after fertilization, and the imbalance of maternal H3K9me3 signal over paternal last until the blastocyst stage. The rebuilding of H3K9me3 on LTR retro-transposons maintains its repression state after the global DNA demethylation, and we further discover that Chaf1a is essential for the establishment of H3K9me3 on LTRs and the loss function of Chaf1a leads to embryo development failure. Finally, we find that lineage specific H3K9me3 is established after lineage commitment in post-implantation embryos. Thus, our data demonstrate that H3K9me3-dependent heterochromatin undergoes dramatic reprogramming during early embryo development and the establishment of H3K9me3 on LTRs is essential for proper embryo development. Overall design: We mapped the H3K9me3 modifications on embryos from zygote to 8.5 day stage (with separated ICM and TE, Epi and Exe). The mouse metaphase II (MII) oocytes, sperm, as well as mouse embryonic stem cells (mESCs) and mouse trophoblast stem cells (mTSCs) were also analyzed. In the ChIP-seq analysis on pre-implantation embryos, 500 cells were used for per reaction and two or three replicates were performed for each stage.</p></div>
+</div>
+</div></div>
+</div>
+<div class="section menu-content menu1 download readable" style="display:none">
+<div class="ph experiment"><div>
+<h2 xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:f="qq">SRA archive data</h2>
+<p xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:f="qq">
+        SRA archive data is normalized by the SRA load process and used by the <strong>
+          <a href="/Traces/sra/sra.cgi?view=toolkit_doc">SRA Toolkit</a>
+        </strong> to read and produce formats like FASTQ, SAM, etc.
+        The default toolkit configuration enables it to find and retrieve SRA runs by accession.
+      </p>
+<p xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:f="qq">
+        Public SRA files are now available from GCP and AWS cloud platforms as well as from NCBI.
+        Access to most data in the cloud requires a user account with the cloud service provider.
+        The user’s account will incur costs for cloud compute or to copy data outside of the specified cloud service region.
+      </p>
+<table class="geo_zebra run-viewer-download">
+<colgroup>
+<col width="150">
+<col width="100">
+<col width="100">
+<col width="750">
+<col width="100">
+<col width="100">
+</colgroup>
+<thead><tr>
+<th>Type</th>
+<th>Size</th>
+<th>Location</th>
+<th>Name</th>
+<th>Free Egress</th>
+<th>Access Type</th>
+</tr></thead>
+<tbody>
+<tr class="first">
+<td rowspan="4">run</td>
+<td rowspan="4" style="text-align:right;padding-right:1em;">2,559,879 Kb
+                            </td>
+<td>NCBI</td>
+<td><a href="https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-run-7/SRR5479644/SRR5479644.1">https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-run-7/SRR5479644/SRR5479644.1</a></td>
+<td>worldwide</td>
+<td>anonymous</td>
+</tr>
+<tr>
+<td>NCBI</td>
+<td><a href="https://sra-downloadb.st-va.ncbi.nlm.nih.gov/sos1/sra-pub-run-8/SRR5479644/SRR5479644.1">https://sra-downloadb.st-va.ncbi.nlm.nih.gov/sos1/sra-pub-run-8/SRR5479644/SRR5479644.1</a></td>
+<td>worldwide</td>
+<td>anonymous</td>
+</tr>
+<tr>
+<td>AWS</td>
+<td>s3://sra-pub-run-5/SRR5479644/SRR5479644.1</td>
+<td title="Payment required for other locations">s3.us-east-1</td>
+<td>aws identity</td>
+</tr>
+<tr>
+<td>GCP</td>
+<td>gs://sra-pub-run-5/SRR5479644/SRR5479644.1</td>
+<td title="Payment required for other locations">gs.US</td>
+<td>gcp identity</td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<div class="ph run"><div>
+<h2 xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:f="qq">Original format</h2>
+<p xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:f="qq">
+        The original files submitted to SRA. These files may require specific software to open, read and interpret data.
+      </p>
+<table class="geo_zebra run-viewer-download">
+<colgroup>
+<col width="150">
+<col width="100">
+<col width="100">
+<col width="750">
+<col width="100">
+<col width="100">
+</colgroup>
+<thead><tr>
+<th>Type</th>
+<th>Size</th>
+<th>Location</th>
+<th>Name</th>
+<th>Free Egress</th>
+<th>Access Type</th>
+</tr></thead>
+<tbody>
+<tr class="first">
+<td rowspan="2">fastq</td>
+<td rowspan="2" style="text-align:right;padding-right:1em;">2,220,071 Kb
+                            </td>
+<td>GCP</td>
+<td>gs://sra-pub-src-8/SRR5479644/E75Epi.input.1.fq.gz</td>
+<td title="Payment required for other locations">-</td>
+<td>Use Cloud Data Delivery</td>
+</tr>
+<tr>
+<td>AWS</td>
+<td>s3://sra-pub-src-8/SRR5479644/E75Epi.input.1.fq.gz</td>
+<td title="Payment required for other locations">-</td>
+<td>Use Cloud Data Delivery</td>
+</tr>
+<tr class="first">
+<td rowspan="2">fastq</td>
+<td rowspan="2" style="text-align:right;padding-right:1em;">2,225,294 Kb
+                            </td>
+<td>GCP</td>
+<td>gs://sra-pub-src-6/SRR5479644/E75Epi.input.2.fq.gz</td>
+<td title="Payment required for other locations">-</td>
+<td>Use Cloud Data Delivery</td>
+</tr>
+<tr>
+<td>AWS</td>
+<td>s3://sra-pub-src-6/SRR5479644/E75Epi.input.2.fq.gz</td>
+<td title="Payment required for other locations">-</td>
+<td>Use Cloud Data Delivery</td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<dl id="id-run-viewer-download-legend" class="help-container expand closed">
+<dt><a class="expand-handler" href="#"><span>
+        Egress and Access: what does it mean?
+      </span></a></dt>
+<dd class="expand-body">
+      
+      <div class="legend-definition">
+<strong>Egress</strong><txt xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:f="qq">term used by cloud providers to describe cost (charged to the user) of moving data outside of the storage region</txt>
+</div>
+      <div class="legend-definition">
+<strong>Free Egress</strong><txt xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:f="qq">
+          column indicates where the data can be accessed without an egress charge:
+          <ul>
+            <li>
+              <strong>worldwide</strong>
+              can be downloaded from anywhere for free
+            </li>
+            <li>
+              <strong>s3.us-east-1</strong>
+              is free to access from machines running in Amazon's us-east-1 region, access from other regions or transport outside of AWS will require paying egress charges
+            </li>
+            <li>
+              <strong>gs.US</strong>
+              is free to access from machines running in Google’s gs.US region, access from other regions or transport outside of GCP will require paying egress charges
+            </li>
+          </ul>
+        </txt>
+</div>
+      <div class="legend-definition">
+<strong>Access Type</strong><txt xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:f="qq">describes whether a cloud service user account is necessary for data access. "anonymous" access means general public access</txt>
+</div>
+      <div class="legend-definition">
+<strong>Name</strong><txt xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:f="qq">column provides either a link to free download location at NCBI or a URL for the cloud provider storage location. Either s3:// for Amazon or gs:// for Google storage</txt>
+</div>
+    </dd>
+</dl>
+<dl id="id-run-viewer-download-help" class="help-container expand closed">
+<dt><a class="expand-handler" href="#"><span>
+        Why is SRA data in the cloud?
+      </span></a></dt>
+<dd class="expand-body">
+      
+      <txt xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:f="qq">
+        <p>In order to support large scale (hyper parallel) data analyses SRA data is now available at GCP and AWS with few caveats:</p>
+        <ul>
+          <li>SRA data is copied to the cloud from NCBI. There may be a lag between availability from NCBI and from CSP (cloud service providers)</li>
+          <li>To access public data user account with the cloud service provider is required. Your account will incur costs for cloud compute and/or to copy data 
+          (either archival or results of your comute) outside of the specified cloud service region</li>
+          <li>Distribution of protected data is signed by NIH account and requires user to operate in the same region as the data</li>
+        </ul>
+        <p>
+          SRA has also begun to provide access to <em>originally submitted</em> source files:
+        </p>
+        <ul>
+          <li>not all files have been validated by SRA</li>
+          <li>not all files have been copied to cloud locations (recovering it from NCBI tape system takes time ).</li>
+          <li>
+            the volume of this type of data a much larger and it is not used as often so we will keep most of it
+            on tape or "cold" storage in cloud. As a result the data may not be available instantly and restore
+            requests will be served on first-come first-served basis and cost of resore may be charged to your
+            user account.
+          </li>
+        </ul>
+
+      </txt>
+    </dd>
+</dl>
+</div>
+<div class="section menu-content menu1 analysis" style="display:none"><div class="ph taxon_analysis"><div>
+<h2>
+                  Taxonomy Analysis
+                </h2>
+<ul>
+<li><span>Unidentified reads: <strong>3.52%</strong></span></li>
+<li>
+<span>Identified reads: <strong>96.48%</strong></span><div id="id-tax_analysis"></div>
+<link href="/core/lw/2.0/css/gui.3/tree.3.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="js/tax_analysis.js"></script><script type="text/javascript">
+            (function () {
+            var oTaxAnalysisData = [{"n":"tx131567", "p":"0", "d":{"name":"cellular organisms","percent":"96.45"}}, 
+{"n":"tx2759", "p":"tx131567", "d":{"name":"Eukaryota","percent":"92.42"}}, 
+{"n":"tx33154", "p":"tx2759", "d":{"name":"Opisthokonta","percent":"85.98"}}, 
+{"n":"tx33208", "p":"tx33154", "d":{"name":"Metazoa","percent":"85.98"}}, 
+{"n":"tx6072", "p":"tx33208", "d":{"name":"Eumetazoa","percent":"85.98"}}, 
+{"n":"tx33213", "p":"tx6072", "d":{"name":"Bilateria","percent":"85.98"}}, 
+{"n":"tx33511", "p":"tx33213", "d":{"name":"Deuterostomia","percent":"85.96"}}, 
+{"n":"tx7711", "p":"tx33511", "d":{"name":"Chordata","percent":"85.96"}}, 
+{"n":"tx89593", "p":"tx7711", "d":{"name":"Craniata","percent":"85.96"}}, 
+{"n":"tx7742", "p":"tx89593", "d":{"name":"Vertebrata","percent":"85.96"}}, 
+{"n":"tx7776", "p":"tx7742", "d":{"name":"Gnathostomata","percent":"85.96"}}, 
+{"n":"tx117570", "p":"tx7776", "d":{"name":"Teleostomi","percent":"85.95"}}, 
+{"n":"tx117571", "p":"tx117570", "d":{"name":"Euteleostomi","percent":"85.95"}}, 
+{"n":"tx8287", "p":"tx117571", "d":{"name":"Sarcopterygii","percent":"85.94"}}, 
+{"n":"tx1338369", "p":"tx8287", "d":{"name":"Dipnotetrapodomorpha","percent":"85.94"}}, 
+{"n":"tx32523", "p":"tx1338369", "d":{"name":"Tetrapoda","percent":"85.94"}}, 
+{"n":"tx32524", "p":"tx32523", "d":{"name":"Amniota","percent":"85.94"}}, 
+{"n":"tx40674", "p":"tx32524", "d":{"name":"Mammalia","percent":"85.92"}}, 
+{"n":"tx32525", "p":"tx40674", "d":{"name":"Theria","percent":"85.92"}}, 
+{"n":"tx9347", "p":"tx32525", "d":{"name":"Eutheria","percent":"85.91"}}, 
+{"n":"tx1437010", "p":"tx9347", "d":{"name":"Boreoeutheria","percent":"85.85"}}, 
+{"n":"tx314146", "p":"tx1437010", "d":{"name":"Euarchontoglires","percent":"85.77"}}, 
+{"n":"tx314147", "p":"tx314146", "d":{"name":"Glires","percent":"85.72"}}, 
+{"n":"tx9989", "p":"tx314147", "d":{"name":"Rodentia","percent":"85.71"}}, 
+{"n":"tx1963758", "p":"tx9989", "d":{"name":"Myomorpha","percent":"84.72"}}, 
+{"n":"tx337687", "p":"tx1963758", "d":{"name":"Muroidea","percent":"84.72"}}, 
+{"n":"tx10066", "p":"tx337687", "d":{"name":"Muridae","percent":"83.75"}}, 
+{"n":"tx39107", "p":"tx10066", "d":{"name":"Murinae","percent":"83.75"}}, 
+{"n":"tx10088", "p":"tx39107", "d":{"name":"Mus","percent":"82.4"}}, 
+{"n":"tx862507", "p":"tx10088", "d":{"name":"Mus","percent":"82.4"}}, 
+{"n":"tx10090", "p":"tx862507", "c":0, "d":{"name":"Mus musculus","percent":"82.4"}}, 
+{"n":"tx10114", "p":"tx39107", "d":{"name":"Rattus","percent":"0.02", "kbp":"1589"}}, 
+{"n":"tx10116", "p":"tx10114", "c":0, "d":{"name":"Rattus norvegicus","percent":"0.02", "kbp":"1589"}}, 
+{"n":"tx337677", "p":"tx337687", "d":{"name":"Cricetidae","percent":"0.01", "kbp":"1049"}}, 
+{"n":"tx10026", "p":"tx337677", "d":{"name":"Cricetinae","percent":"0", "kbp":"356"}}, 
+{"n":"tx10028", "p":"tx10026", "d":{"name":"Cricetulus","percent":"0", "kbp":"177"}}, 
+{"n":"tx10029", "p":"tx10028", "c":0, "d":{"name":"Cricetulus griseus","percent":"0", "kbp":"177"}}, 
+{"n":"tx10035", "p":"tx10026", "d":{"name":"Mesocricetus","percent":"0", "kbp":"122"}}, 
+{"n":"tx10036", "p":"tx10035", "c":0, "d":{"name":"Mesocricetus auratus","percent":"0", "kbp":"122"}}, 
+{"n":"tx337963", "p":"tx337677", "d":{"name":"Neotominae","percent":"0", "kbp":"188"}}, 
+{"n":"tx10040", "p":"tx337963", "d":{"name":"Peromyscus","percent":"0", "kbp":"188"}}, 
+{"n":"tx10042", "p":"tx10040", "d":{"name":"Peromyscus maniculatus","percent":"0", "kbp":"188"}}, 
+{"n":"tx230844", "p":"tx10042", "c":0, "d":{"name":"Peromyscus maniculatus bairdii","percent":"0", "kbp":"188"}}, 
+{"n":"tx39087", "p":"tx337677", "d":{"name":"Arvicolinae","percent":"0", "kbp":"109"}}, 
+{"n":"tx10053", "p":"tx39087", "d":{"name":"Microtus","percent":"0", "kbp":"109"}}, 
+{"n":"tx79684", "p":"tx10053", "c":0, "d":{"name":"Microtus ochrogaster","percent":"0", "kbp":"109"}}, 
+{"n":"tx337664", "p":"tx337687", "d":{"name":"Spalacidae","percent":"0", "kbp":"117"}}, 
+{"n":"tx10061", "p":"tx337664", "d":{"name":"Spalacinae","percent":"0", "kbp":"117"}}, 
+{"n":"tx30636", "p":"tx10061", "d":{"name":"Nannospalax","percent":"0", "kbp":"117"}}, 
+{"n":"tx1026970", "p":"tx30636", "c":0, "d":{"name":"Nannospalax galili","percent":"0", "kbp":"117"}}, 
+{"n":"tx1963761", "p":"tx1963758", "d":{"name":"Dipodoidea","percent":"0", "kbp":"20"}}, 
+{"n":"tx30648", "p":"tx1963761", "d":{"name":"Dipodidae","percent":"0", "kbp":"20"}}, 
+{"n":"tx35737", "p":"tx30648", "d":{"name":"Dipodinae","percent":"0", "kbp":"20"}}, 
+{"n":"tx48867", "p":"tx35737", "d":{"name":"Jaculus","percent":"0", "kbp":"20"}}, 
+{"n":"tx51337", "p":"tx48867", "c":0, "d":{"name":"Jaculus jaculus","percent":"0", "kbp":"20"}}, 
+{"n":"tx33553", "p":"tx9989", "c":0, "d":{"name":"Sciuromorpha","percent":"0.08", "kbp":"5650"}}, 
+{"n":"tx33550", "p":"tx9989", "d":{"name":"Hystricomorpha","percent":"0", "kbp":"17"}}, 
+{"n":"tx10158", "p":"tx33550", "d":{"name":"Octodontidae","percent":"0", "kbp":"8"}}, 
+{"n":"tx10159", "p":"tx10158", "d":{"name":"Octodon","percent":"0", "kbp":"8"}}, 
+{"n":"tx10160", "p":"tx10159", "c":0, "d":{"name":"Octodon degus","percent":"0", "kbp":"8"}}, 
+{"n":"tx10150", "p":"tx33550", "d":{"name":"Chinchillidae","percent":"0", "kbp":"5"}}, 
+{"n":"tx10151", "p":"tx10150", "d":{"name":"Chinchilla","percent":"0", "kbp":"5"}}, 
+{"n":"tx34839", "p":"tx10151", "c":0, "d":{"name":"Chinchilla lanigera","percent":"0", "kbp":"5"}}, 
+{"n":"tx10139", "p":"tx33550", "d":{"name":"Caviidae","percent":"0", "kbp":"4"}}, 
+{"n":"tx10140", "p":"tx10139", "d":{"name":"Cavia","percent":"0", "kbp":"4"}}, 
+{"n":"tx10141", "p":"tx10140", "c":0, "d":{"name":"Cavia porcellus","percent":"0", "kbp":"4"}}, 
+{"n":"tx9443", "p":"tx314146", "d":{"name":"Primates","percent":"0", "kbp":"334"}}, 
+{"n":"tx376913", "p":"tx9443", "d":{"name":"Haplorrhini","percent":"0", "kbp":"318"}}, 
+{"n":"tx314293", "p":"tx376913", "d":{"name":"Simiiformes","percent":"0", "kbp":"317"}}, 
+{"n":"tx9526", "p":"tx314293", "d":{"name":"Catarrhini","percent":"0", "kbp":"286"}}, 
+{"n":"tx314295", "p":"tx9526", "d":{"name":"Hominoidea","percent":"0", "kbp":"264"}}, 
+{"n":"tx9604", "p":"tx314295", "d":{"name":"Hominidae","percent":"0", "kbp":"241"}}, 
+{"n":"tx207598", "p":"tx9604", "d":{"name":"Homininae","percent":"0", "kbp":"218"}}, 
+{"n":"tx9605", "p":"tx207598", "d":{"name":"Homo","percent":"0", "kbp":"104"}}, 
+{"n":"tx9606", "p":"tx9605", "c":0, "d":{"name":"Homo sapiens","percent":"0", "kbp":"104"}}, 
+{"n":"tx9596", "p":"tx207598", "c":0, "d":{"name":"Pan","percent":"0", "kbp":"1"}}, 
+{"n":"tx9479", "p":"tx314293", "d":{"name":"Platyrrhini","percent":"0", "kbp":"3"}}, 
+{"n":"tx9498", "p":"tx9479", "d":{"name":"Cebidae","percent":"0", "kbp":"3"}}, 
+{"n":"tx38070", "p":"tx9498", "d":{"name":"Cebinae","percent":"0", "kbp":"3"}}, 
+{"n":"tx9513", "p":"tx38070", "d":{"name":"Cebus","percent":"0", "kbp":"3"}}, 
+{"n":"tx9516", "p":"tx9513", "d":{"name":"Cebus capucinus","percent":"0", "kbp":"3"}}, 
+{"n":"tx1737458", "p":"tx9516", "c":0, "d":{"name":"Cebus capucinus imitator","percent":"0", "kbp":"3"}}, 
+{"n":"tx376912", "p":"tx376913", "d":{"name":"Tarsiiformes","percent":"0", "kbp":"2"}}, 
+{"n":"tx9475", "p":"tx376912", "d":{"name":"Tarsiidae","percent":"0", "kbp":"2"}}, 
+{"n":"tx1868481", "p":"tx9475", "d":{"name":"Carlito","percent":"0", "kbp":"2"}}, 
+{"n":"tx9478", "p":"tx1868481", "c":0, "d":{"name":"Carlito syrichta","percent":"0", "kbp":"2"}}, 
+{"n":"tx376911", "p":"tx9443", "d":{"name":"Strepsirrhini","percent":"0", "kbp":"10"}}, 
+{"n":"tx376915", "p":"tx376911", "d":{"name":"Lemuriformes","percent":"0", "kbp":"7"}}, 
+{"n":"tx30615", "p":"tx376915", "d":{"name":"Cheirogaleidae","percent":"0", "kbp":"7"}}, 
+{"n":"tx13149", "p":"tx30615", "d":{"name":"Microcebus","percent":"0", "kbp":"7"}}, 
+{"n":"tx30608", "p":"tx13149", "c":0, "d":{"name":"Microcebus murinus","percent":"0", "kbp":"7"}}, 
+{"n":"tx376917", "p":"tx376911", "d":{"name":"Lorisiformes","percent":"0", "kbp":"3"}}, 
+{"n":"tx40297", "p":"tx376917", "d":{"name":"Galagidae","percent":"0", "kbp":"3"}}, 
+{"n":"tx30610", "p":"tx40297", "d":{"name":"Otolemur","percent":"0", "kbp":"3"}}, 
+{"n":"tx30611", "p":"tx30610", "c":0, "d":{"name":"Otolemur garnettii","percent":"0", "kbp":"3"}}, 
+{"n":"tx314145", "p":"tx1437010", "d":{"name":"Laurasiatheria","percent":"0", "kbp":"20"}}, 
+{"n":"tx91561", "p":"tx314145", "d":{"name":"Cetartiodactyla","percent":"0", "kbp":"4"}}, 
+{"n":"tx9845", "p":"tx91561", "d":{"name":"Ruminantia","percent":"0", "kbp":"3"}}, 
+{"n":"tx35500", "p":"tx9845", "d":{"name":"Pecora","percent":"0", "kbp":"3"}}, 
+{"n":"tx9895", "p":"tx35500", "d":{"name":"Bovidae","percent":"0", "kbp":"3"}}, 
+{"n":"tx9963", "p":"tx9895", "d":{"name":"Caprinae","percent":"0", "kbp":"2"}}, 
+{"n":"tx9935", "p":"tx9963", "d":{"name":"Ovis","percent":"0", "kbp":"2"}}, 
+{"n":"tx9940", "p":"tx9935", "c":0, "d":{"name":"Ovis aries","percent":"0", "kbp":"2"}}, 
+{"n":"tx33554", "p":"tx314145", "d":{"name":"Carnivora","percent":"0", "kbp":"3"}}, 
+{"n":"tx379584", "p":"tx33554", "d":{"name":"Caniformia","percent":"0", "kbp":"3"}}, 
+{"n":"tx9608", "p":"tx379584", "d":{"name":"Canidae","percent":"0", "kbp":"2"}}, 
+{"n":"tx9611", "p":"tx9608", "d":{"name":"Canis","percent":"0", "kbp":"2"}}, 
+{"n":"tx9612", "p":"tx9611", "d":{"name":"Canis lupus","percent":"0", "kbp":"2"}}, 
+{"n":"tx9615", "p":"tx9612", "c":0, "d":{"name":"Canis lupus familiaris","percent":"0", "kbp":"2"}}, 
+{"n":"tx9709", "p":"tx379584", "d":{"name":"Phocidae","percent":"0", "kbp":"1"}}, 
+{"n":"tx9712", "p":"tx9709", "d":{"name":"Leptonychotes","percent":"0", "kbp":"1"}}, 
+{"n":"tx9713", "p":"tx9712", "c":0, "d":{"name":"Leptonychotes weddellii","percent":"0", "kbp":"1"}}, 
+{"n":"tx9263", "p":"tx32525", "d":{"name":"Metatheria","percent":"0", "kbp":"4"}}, 
+{"n":"tx38608", "p":"tx9263", "d":{"name":"Dasyuromorphia","percent":"0", "kbp":"4"}}, 
+{"n":"tx9277", "p":"tx38608", "d":{"name":"Dasyuridae","percent":"0", "kbp":"4"}}, 
+{"n":"tx9304", "p":"tx9277", "d":{"name":"Sarcophilus","percent":"0", "kbp":"4"}}, 
+{"n":"tx9305", "p":"tx9304", "c":0, "d":{"name":"Sarcophilus harrisii","percent":"0", "kbp":"4"}}, 
+{"n":"tx33630", "p":"tx2759", "d":{"name":"Alveolata","percent":"4"}}, 
+{"n":"tx5794", "p":"tx33630", "d":{"name":"Apicomplexa","percent":"4"}}, 
+{"n":"tx422676", "p":"tx5794", "d":{"name":"Aconoidasida","percent":"4"}}, 
+{"n":"tx5819", "p":"tx422676", "d":{"name":"Haemosporida","percent":"4"}}, 
+{"n":"tx1639119", "p":"tx5819", "d":{"name":"Plasmodiidae","percent":"4"}}, 
+{"n":"tx5820", "p":"tx1639119", "d":{"name":"Plasmodium","percent":"4"}}, 
+{"n":"tx418101", "p":"tx5820", "d":{"name":"Plasmodium (Vinckeia)","percent":"4"}}, 
+{"n":"tx5821", "p":"tx418101", "d":{"name":"Plasmodium berghei","percent":"0.42", "kbp":"31345"}}, 
+{"n":"tx5823", "p":"tx5821", "c":0, "d":{"name":"Plasmodium berghei ANKA","percent":"0.42", "kbp":"31345"}}, 
+{"n":"tx2", "p":"tx131567", "d":{"name":"Bacteria","percent":"0.02", "kbp":"1661"}}, 
+{"n":"tx1783272", "p":"tx2", "d":{"name":"Terrabacteria group","percent":"0.01", "kbp":"778"}}, 
+{"n":"tx1239", "p":"tx1783272", "d":{"name":"Firmicutes","percent":"0.01", "kbp":"626"}}, 
+{"n":"tx91061", "p":"tx1239", "d":{"name":"Bacilli","percent":"0.01", "kbp":"621"}}, 
+{"n":"tx186826", "p":"tx91061", "d":{"name":"Lactobacillales","percent":"0.01", "kbp":"620"}}, 
+{"n":"tx1300", "p":"tx186826", "d":{"name":"Streptococcaceae","percent":"0", "kbp":"3"}}, 
+{"n":"tx1301", "p":"tx1300", "c":0, "d":{"name":"Streptococcus","percent":"0", "kbp":"3"}}, 
+{"n":"tx1385", "p":"tx91061", "d":{"name":"Bacillales","percent":"0", "kbp":"2"}}, 
+{"n":"tx90964", "p":"tx1385", "d":{"name":"Staphylococcaceae","percent":"0", "kbp":"2"}}, 
+{"n":"tx1279", "p":"tx90964", "c":0, "d":{"name":"Staphylococcus","percent":"0", "kbp":"2"}}, 
+{"n":"tx909932", "p":"tx1239", "d":{"name":"Negativicutes","percent":"0", "kbp":"3"}}, 
+{"n":"tx909929", "p":"tx909932", "d":{"name":"Selenomonadales","percent":"0", "kbp":"3"}}, 
+{"n":"tx1843491", "p":"tx909929", "d":{"name":"Selenomonadaceae","percent":"0", "kbp":"3"}}, 
+{"n":"tx970", "p":"tx1843491", "d":{"name":"Selenomonas","percent":"0", "kbp":"3"}}, 
+{"n":"tx201174", "p":"tx1783272", "d":{"name":"Actinobacteria","percent":"0", "kbp":"150"}}, 
+{"n":"tx1760", "p":"tx201174", "d":{"name":"Actinobacteria","percent":"0", "kbp":"149"}}, 
+{"n":"tx85009", "p":"tx1760", "d":{"name":"Propionibacteriales","percent":"0", "kbp":"114"}}, 
+{"n":"tx31957", "p":"tx85009", "d":{"name":"Propionibacteriaceae","percent":"0", "kbp":"114"}}, 
+{"n":"tx85007", "p":"tx1760", "d":{"name":"Corynebacteriales","percent":"0", "kbp":"15"}}, 
+{"n":"tx1653", "p":"tx85007", "d":{"name":"Corynebacteriaceae","percent":"0", "kbp":"9"}}, 
+{"n":"tx1716", "p":"tx1653", "d":{"name":"Corynebacterium","percent":"0", "kbp":"9"}}, 
+{"n":"tx85029", "p":"tx85007", "d":{"name":"Dietziaceae","percent":"0", "kbp":"5"}}, 
+{"n":"tx37914", "p":"tx85029", "c":0, "d":{"name":"Dietzia","percent":"0", "kbp":"5"}}, 
+{"n":"tx1762", "p":"tx85007", "d":{"name":"Mycobacteriaceae","percent":"0", "kbp":"1"}}, 
+{"n":"tx1763", "p":"tx1762", "d":{"name":"Mycobacterium","percent":"0", "kbp":"1"}}, 
+{"n":"tx2037", "p":"tx1760", "d":{"name":"Actinomycetales","percent":"0", "kbp":"10"}}, 
+{"n":"tx2049", "p":"tx2037", "d":{"name":"Actinomycetaceae","percent":"0", "kbp":"10"}}, 
+{"n":"tx1654", "p":"tx2049", "d":{"name":"Actinomyces","percent":"0", "kbp":"9"}}, 
+{"n":"tx85006", "p":"tx1760", "d":{"name":"Micrococcales","percent":"0", "kbp":"4"}}, 
+{"n":"tx1268", "p":"tx85006", "d":{"name":"Micrococcaceae","percent":"0", "kbp":"3"}}, 
+{"n":"tx1269", "p":"tx1268", "d":{"name":"Micrococcus","percent":"0", "kbp":"3"}}, 
+{"n":"tx1224", "p":"tx2", "d":{"name":"Proteobacteria","percent":"0", "kbp":"325"}}, 
+{"n":"tx28211", "p":"tx1224", "d":{"name":"Alphaproteobacteria","percent":"0", "kbp":"81"}}, 
+{"n":"tx356", "p":"tx28211", "d":{"name":"Rhizobiales","percent":"0", "kbp":"36"}}, 
+{"n":"tx41294", "p":"tx356", "d":{"name":"Bradyrhizobiaceae","percent":"0", "kbp":"32"}}, 
+{"n":"tx374", "p":"tx41294", "c":0, "d":{"name":"Bradyrhizobium","percent":"0", "kbp":"29"}}, 
+{"n":"tx1033", "p":"tx41294", "c":0, "d":{"name":"Afipia","percent":"0", "kbp":"2"}}, 
+{"n":"tx119045", "p":"tx356", "d":{"name":"Methylobacteriaceae","percent":"0", "kbp":"2"}}, 
+{"n":"tx407", "p":"tx119045", "d":{"name":"Methylobacterium","percent":"0", "kbp":"2"}}, 
+{"n":"tx270351", "p":"tx407", "c":0, "d":{"name":"Methylobacterium aquaticum","percent":"0", "kbp":"2"}}, 
+{"n":"tx82115", "p":"tx356", "d":{"name":"Rhizobiaceae","percent":"0", "kbp":"1"}}, 
+{"n":"tx227290", "p":"tx82115", "c":0, "d":{"name":"Rhizobium/Agrobacterium group","percent":"0", "kbp":"1"}}, 
+{"n":"tx204457", "p":"tx28211", "d":{"name":"Sphingomonadales","percent":"0", "kbp":"23"}}, 
+{"n":"tx41297", "p":"tx204457", "d":{"name":"Sphingomonadaceae","percent":"0", "kbp":"23"}}, 
+{"n":"tx13687", "p":"tx41297", "d":{"name":"Sphingomonas","percent":"0", "kbp":"21"}}, 
+{"n":"tx1564113", "p":"tx13687", "c":0, "d":{"name":"Sphingomonas sp. Ant H11","percent":"0", "kbp":"11"}}, 
+{"n":"tx28212", "p":"tx13687", "d":{"name":"Sphingomonas adhaesiva","percent":"0", "kbp":"1"}}, 
+{"n":"tx1219038", "p":"tx28212", "c":0, "d":{"name":"Sphingomonas adhaesiva NBRC 15099","percent":"0", "kbp":"1"}}, 
+{"n":"tx204458", "p":"tx28211", "d":{"name":"Caulobacterales","percent":"0", "kbp":"23"}}, 
+{"n":"tx76892", "p":"tx204458", "d":{"name":"Caulobacteraceae","percent":"0", "kbp":"23"}}, 
+{"n":"tx41275", "p":"tx76892", "d":{"name":"Brevundimonas","percent":"0", "kbp":"23"}}, 
+{"n":"tx391600", "p":"tx41275", "c":0, "d":{"name":"Brevundimonas sp. BAL3","percent":"0", "kbp":"9"}}, 
+{"n":"tx1236", "p":"tx1224", "d":{"name":"Gammaproteobacteria","percent":"0", "kbp":"41"}}, 
+{"n":"tx72274", "p":"tx1236", "d":{"name":"Pseudomonadales","percent":"0", "kbp":"22"}}, 
+{"n":"tx135621", "p":"tx72274", "d":{"name":"Pseudomonadaceae","percent":"0", "kbp":"15"}}, 
+{"n":"tx286", "p":"tx135621", "d":{"name":"Pseudomonas","percent":"0", "kbp":"15"}}, 
+{"n":"tx468", "p":"tx72274", "d":{"name":"Moraxellaceae","percent":"0", "kbp":"7"}}, 
+{"n":"tx469", "p":"tx468", "d":{"name":"Acinetobacter","percent":"0", "kbp":"7"}}, 
+{"n":"tx135614", "p":"tx1236", "d":{"name":"Xanthomonadales","percent":"0", "kbp":"9"}}, 
+{"n":"tx32033", "p":"tx135614", "d":{"name":"Xanthomonadaceae","percent":"0", "kbp":"9"}}, 
+{"n":"tx40323", "p":"tx32033", "d":{"name":"Stenotrophomonas","percent":"0", "kbp":"8"}}, 
+{"n":"tx995085", "p":"tx40323", "d":{"name":"Stenotrophomonas maltophilia group","percent":"0", "kbp":"4"}}, 
+{"n":"tx40324", "p":"tx995085", "c":0, "d":{"name":"Stenotrophomonas maltophilia","percent":"0", "kbp":"4"}}, 
+{"n":"tx91347", "p":"tx1236", "d":{"name":"Enterobacterales","percent":"0", "kbp":"7"}}, 
+{"n":"tx543", "p":"tx91347", "c":0, "d":{"name":"Enterobacteriaceae","percent":"0", "kbp":"7"}}, 
+{"n":"tx28216", "p":"tx1224", "d":{"name":"Betaproteobacteria","percent":"0", "kbp":"27"}}, 
+{"n":"tx80840", "p":"tx28216", "d":{"name":"Burkholderiales","percent":"0", "kbp":"22"}}, 
+{"n":"tx80864", "p":"tx80840", "d":{"name":"Comamonadaceae","percent":"0", "kbp":"8"}}, 
+{"n":"tx335058", "p":"tx80864", "d":{"name":"Pelomonas","percent":"0", "kbp":"4"}}, 
+{"n":"tx1736464", "p":"tx335058", "c":0, "d":{"name":"Pelomonas sp. Root1444","percent":"0", "kbp":"3"}}, 
+{"n":"tx10239", "p":"0", "d":{"name":"Viruses","percent":"0.03", "kbp":"1986"}}, 
+{"n":"tx35268", "p":"tx10239", "d":{"name":"Retro-transcribing viruses","percent":"0.03", "kbp":"1986"}}, 
+{"n":"tx11632", "p":"tx35268", "d":{"name":"Retroviridae","percent":"0.03", "kbp":"1986"}}, 
+{"n":"tx327045", "p":"tx11632", "d":{"name":"Orthoretrovirinae","percent":"0.03", "kbp":"1986"}}, 
+{"n":"tx153135", "p":"tx327045", "d":{"name":"Gammaretrovirus","percent":"0.03", "kbp":"1888"}}, 
+{"n":"tx353212", "p":"tx153135", "d":{"name":"Mammalian gammaretrovirus group","percent":"0.01", "kbp":"420"}}, 
+{"n":"tx353210", "p":"tx353212", "d":{"name":"Replication competent viruses","percent":"0.01", "kbp":"418"}}, 
+{"n":"tx11786", "p":"tx353210", "d":{"name":"Murine leukemia virus","percent":"0.01", "kbp":"418"}}, 
+{"n":"tx368797", "p":"tx11786", "d":{"name":"unclassified Murine leukemia virus","percent":"0", "kbp":"27"}}, 
+{"n":"tx114654", "p":"tx368797", "c":0, "d":{"name":"DG-75 Murine leukemia virus","percent":"0", "kbp":"20"}}, 
+{"n":"tx458105", "p":"tx368797", "c":0, "d":{"name":"Murine leukemia virus CasE#1","percent":"0", "kbp":"6"}}, 
+{"n":"tx353207", "p":"tx353212", "d":{"name":"Replication defective viruses","percent":"0", "kbp":"3"}}, 
+{"n":"tx11809", "p":"tx353207", "c":0, "d":{"name":"Moloney murine sarcoma virus","percent":"0", "kbp":"3"}}, 
+{"n":"tx353769", "p":"tx153135", "d":{"name":"unclassified Gammaretrovirus","percent":"0", "kbp":"184"}}, 
+{"n":"tx590745", "p":"tx353769", "c":0, "d":{"name":"Mus musculus mobilized endogenous polytropic provirus","percent":"0", "kbp":"89"}}, 
+{"n":"tx99182", "p":"tx353769", "d":{"name":"Murine leukemia-related retroviruses","percent":"0", "kbp":"84"}}, 
+{"n":"tx1038067", "p":"tx99182", "d":{"name":"XMRV-related viruses","percent":"0", "kbp":"84"}}, 
+{"n":"tx438045", "p":"tx1038067", "c":0, "d":{"name":"XMRV","percent":"0", "kbp":"34"}}, 
+{"n":"tx1002079", "p":"tx1038067", "c":0, "d":{"name":"XMRV-like mouse endogenous retrovirus mERV-XL","percent":"0", "kbp":"31"}}, 
+{"n":"tx11788", "p":"tx353769", "c":0, "d":{"name":"Abelson murine leukemia virus","percent":"0", "kbp":"10"}}, 
+{"n":"tx140052", "p":"tx327045", "d":{"name":"Betaretrovirus","percent":"0", "kbp":"97"}}, 
+{"n":"tx11757", "p":"tx140052", "d":{"name":"Mouse mammary tumor virus","percent":"0", "kbp":"97"}}, 
+{"n":"tx114183", "p":"tx11757", "c":0, "d":{"name":"Endogenous mouse mammary tumor virus Mtv1","percent":"0", "kbp":"7"}}, 
+{"n":"tx46608", "p":"tx11757", "c":0, "d":{"name":"Exogenous mouse mammary tumor virus","percent":"0", "kbp":"2"}}, 
+0];
+
+            utils.addEvent(window, "load", function () {
+            StaticTree(document.getElementById("id-tax_analysis"), "tax_analysis_0_", tree_transform(oTaxAnalysisData),
+            function (oD, bLast) {
+            var label = oD.d.name + ": <strong>" + oD.d.percent + "%</strong>";
+            if ( oD.d.kbp != "" && oD.d.percent == "< 0.01" ) {{ label = label + " (" + oD.d.kbp + " Kbp)" ; }}
+            return label;
+            }); } ); })();
+          </script>
+</li>
+</ul>
+<div style="margin:0.3em;">
+<div class="krona_link"><a href="?run=SRR5479644&amp;krona=on">View in Krona</a></div>
+<h3>Strong signals</h3>
+<table class="zebra" style="font-size:0.9em;">
+<tr>
+<th>SuperKingdom</th>
+<th>Organism</th>
+<th>Rank</th>
+<th aligh="right" title="fraction of reads">%%</th>
+<th title="total size of attributed reads in Kilo-base-pairs">Kbp</th>
+<th title="Coverage relative to genome size (when known)">Coverage</th>
+</tr>
+<tr>
+<td>Eukaryota</td>
+<td>Mus musculus</td>
+<td>species</td>
+<td align="right">92.0</td>
+<td align="right">6,794,279</td>
+<td align="right" title="
+                        coverage versus approiximated genome size : 2.3Gbp">2.9</td>
+</tr>
+<tr>
+<td>Eukaryota</td>
+<td>Plasmodium berghei ANKA</td>
+<td></td>
+<td align="right">4.3</td>
+<td align="right">316,470</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Eukaryota</td>
+<td>Sciuromorpha</td>
+<td>suborder</td>
+<td align="right">0.1</td>
+<td align="right">6,139</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Viruses</td>
+<td>Gammaretrovirus</td>
+<td>genus</td>
+<td align="right">0.0</td>
+<td align="right">1,888</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Bacteria</td>
+<td>Lactobacillales</td>
+<td>order</td>
+<td align="right">0.0</td>
+<td align="right">1,068</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Bacteria</td>
+<td>Proteobacteria</td>
+<td>phylum</td>
+<td align="right">0.0</td>
+<td align="right">510</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Viruses</td>
+<td>Murine leukemia virus</td>
+<td>species</td>
+<td align="right">0.0</td>
+<td align="right">418</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Bacteria</td>
+<td>Actinobacteria</td>
+<td>phylum</td>
+<td align="right">0.0</td>
+<td align="right">256</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Viruses</td>
+<td>Mouse mammary tumor virus</td>
+<td>species</td>
+<td align="right">0.0</td>
+<td align="right">97</td>
+<td align="right"></td>
+</tr>
+</table>
+</div>
+<dl id="id-analysis-text-1" class="text-container expand closed">
+<dt><a class="expand-handler" href="#"><span>
+        How to read results?
+      </span></a></dt>
+<dd class="expand-body"><txt xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:f="qq">
+          <p>
+            Results show distribution of reads mapping to specific taxonomy nodes as a percentage of total reads within
+            the analyzed run. In cases where a read maps to more than one related taxonomy node, the read is reported as
+            originating from the lowest shared taxonomic node. So when a read maps to two species belonging to the same genus,
+            it is assigned at the genus level. Sequence reads from a single organism will map to several taxonomy nodes spanning the organism’s lineage.
+            The number of reads mapping to higher level nodes will typically be greater than those that map to terminal nodes.
+          </p>
+          <p>
+            STAT results are proportional to the size of sequenced genomes. Given a mixed sample containing several organisms at equal copy number,
+            proportionally more reads originate from the larger genomes. This means that the percentages reported by STAT will reflect
+            genome size and must be considered against the genomic complexity of the sequenced sample.
+          </p>
+      </txt></dd>
+</dl>
+<dl id="id-analysis-text-2" class="text-container expand closed">
+<dt><a class="expand-handler" href="#"><span>
+        How taxonomy analysis is done?
+      </span></a></dt>
+<dd class="expand-body"><txt xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:f="qq">
+          <h3>Overview</h3>
+          <p>
+            The NCBI SRA Taxonomy Analysis Tool (STAT) calculates the taxonomic distribution of reads from next generation sequencing runs. 
+            This analysis maps individual sequencing reads to a taxonomic hierarchy and reports the taxonomic composition of reads within a sequencing run.
+          </p>
+          <h3>Method</h3>
+          <p>
+            STAT maps sequencing reads to a taxonomic hierarchy using a two-step strategy based on exact query read matches to precomputed k-mer dictionary databases. 
+            In the first pass a small, a "coarse" reference dictionary database is used to identify organisms matching a read set. 
+            In the second pass, organism-specific slices from a "fine" reference dictionary database are used to compute distribution of reads between identified taxonomy classes (species and higher order taxonomy nodes). 
+            When multiple tax nodes are mapped for single spot we use the lowest non-ambiguous mapping.
+          </p>
+          <p>
+            STAT k-mer dictionaries are built using an iterative <a href="https://en.wikipedia.org/wiki/MinHash" target="_blank">minhash</a>
+            based approach against reference genomic databases. For every fixed segment length of incoming reference
+            nucleotide sequence, k-mer representing this segment selected based on minimum
+            <a href="https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function#FNV-1_hash" target="_blank">fvn1 hash</a> function.
+            Several strategies were used to enhance the specificity and accuracy of STAT results.
+            Low complexity k-mers composed of &gt;50% homo-polymer or dinucleotide repeats (e.g. AAAAAA or ACACACACACA)
+            were filtered from dictionaries, and discrete k-mers belonging to multiple taxonomic references
+            were "merged" at the lowest common taxonomic node shared between references. Finally, the specificity
+            of representative k-mers was determined by searching against the source reference genomic database.
+            When representative k-mers were found in multiple taxonomic references nodes, they were merged at
+            the lowest common taxonomic node as above.
+          </p>
+          <h3>Genome references</h3>
+          <p>
+            The NCBI <a href="https://www.ncbi.nlm.nih.gov/refseq/" target="_blank">refseq_genomic</a> database was supplemented
+            with the validated viral genome set (<a href="https://www.ncbi.nlm.nih.gov/genome/viruses/" target="_blank">RefSeq neighbors</a>)
+            and used as the source for k-mer creation in both "coarse" and "fine" sets.
+          </p>
+          <h3>Taxonomy hierarchy</h3>
+          <p>
+            Reference sequences were mapped to the taxonomy hierarchy using the NCBI 
+            <a href="https://www.ncbi.nlm.nih.gov/taxonomy" target="_blank">taxonomy</a> database. The database contained 48,180 taxonomy nodes in January 2017.
+          </p>
+          <h3>Segment sizes and K-mer selection</h3>
+          <p>
+            K-mer dictionaries were built by computationally slicing reference genomes into sequential segments and selecting 32-mers to represent each segment.
+            The "coarse" k-mer dictionary uses variable segment lengths, proportional to genomes size and ranging from 200-8000 nt. The "fine" k-mer dictionary
+            uses a constant 64 nt segment length for all genomes (for 32-mer index it gives us 32x reduction in space with the assumption  that we have at least one error-free 64-mer for every spot).
+          </p>
+          <h3>F.A.Q.</h3>
+          <h3>Can I get the software?</h3>
+              <p>Yes. At <a href="https://github.com/ncbi/ngs-tools/tree/tax/tools/tax">github</a></p>
+                <div class="pre">
+                  <p>git clone https://github.com/ncbi/ngs-tools.git --branch tax</p>
+                  <p>cd ./ngs-tools/tools/tax</p>
+                  <p>make Makefile</p>
+                </div>
+                <p>and in</p>
+              <div class="pre">
+                  <p>./examples</p>
+                </div>
+                <p>folder you can find helper *.sh scripts</p>
+            <h3>How can I cite you?</h3>
+              <p>No publication yet. We intend to post a preprint soon.</p>
+      </txt></dd>
+</dl>
+</div></div></div>
+<div class="menu-content menu1 reads" style="display:none"><form method="get" action="?" id="find-spot-form">
+<input type="hidden" name="view" value="run_browser"><input type="hidden" name="run" value=""><div id="sra-spot-data" class="section">
+<div class="sra-ctrl"><div id="sra-find-spot">
+<div>
+<label for="id_x6">Filter: <input type="text" name="search" value="" maxlength="61" id="id_x6" autofocus="autofocus"></label> <button type="button" id="find">Find</button> <input type="button" value="Filtered Download" id="btn_download">
+</div>
+<dl class="help-container inline expand closed">
+<dt><a class="expand-handler" href="#"><span>What does it do?</span></a></dt>
+<dd class="expand-body">
+        This button will lead you to the page where you can subset the data
+        using "Filter" field and download the results in FASTQ or FASTA format.
+      </dd>
+</dl>
+<br clear="all"><div XXclass="help-container inline"><dl class="help-container inline expand closed">
+<dt><a class="expand-handler" href="#"><span>What can the filter be applied to?</span></a></dt>
+<dd class="expand-body">
+<ul>
+<li>
+                              Sequence substring: one of the biological reads for a spot should contain the substring
+                              <br>
+                              Examples:
+                              <a href="?view=run_browser&amp;run=SRR000130&amp;search=ATTGGA">ATTGGA</a>,
+                              <a href="?view=run_browser&amp;run=SRR000130&amp;search=%5EATTGGA">^ATTGGA</a>,
+                              <a href="?view=run_browser&amp;run=SRR000130&amp;search=ATTGGA%24">ATTGGA$</a>,
+                              <a href="?view=run_browser&amp;run=SRR000130&amp;search=ATGDNNAT">ATGDNNAT</a>,
+                              <a href="?view=run_browser&amp;run=SRR000130&amp;search=ATGGA%26GCGC">ATGGA&amp;GCGC</a><br>
+                              The strings are case insensitive, and belong to either 2NA or 4NA alphabets.
+                              <br>
+                              String length limited to 29 characters in 4NA alphabet
+                              (includes IUPAC substitution codes) or 61 characters in 2NA alphabet (ACGT only).
+                              Search is case insensitive and strings may be combined with boolean
+                              operators &amp; | ! (AND, OR, NOT)
+                              <br>
+                              See "<a href="SRA_Substring_Search.pdf">SRA nucleotide search expressions</a>" for more details.
+                              <br><span class="warning">
+                                Maximum size of Run to be search is
+                                1.1<span class="file-size gb">G</span></span>
+</li>
+<li>
+                              Name of a spot you are looking for.
+                              <br>
+                              Example: <a href="?view=run_browser&amp;run=SRR000130&amp;search=EXWA4RL02G9Z6H">EXWA4RL02G9Z6H</a>
+</li>
+<li>
+                              Name of sample pool member, or "all" for all members.
+                              <br>
+                              Example: <a href="?view=run_browser&amp;run=SRR031989&amp;member=M22_V2">M22_V2</a>
+                              will return all spots assigned to the sample pool member M22_V2 for run SRR031989.
+                            </li>
+<li>
+                              Spot Id.
+                              <br>
+                              Example: <a href="?view=run_browser&amp;run=SRR031989&amp;search=23">23</a>
+</li>
+</ul>
+<p>
+                            Please note that the filter searches across read boundaries within each spot. Thus, pattern matches within technical reads and across paired-end data boundaries will also be returned
+                          </p>
+</dd>
+</dl></div>
+<br clear="all"><div class="warning">The Run is too big (&gt;1.1<span class="file-size gb">G</span>) for searching by sequence substring.</div>
+</div></div>
+<h1 id="spot-data-title"> </h1>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" id="spot-data-ph">
+<tr>
+<td id="pager-ph"></td>
+<td id="sra-set-views">View: <span><span class="toggle_slave customize-rid rid"><span class="toggle_slave rid"><label for="id-show_bio"><input type="checkbox" rel="update" name="show_bio" id="id-show_bio">biological reads</label><label for="id-show_tec"><input type="checkbox" rel="update" name="show_tec" id="id-show_tec">technical reads</label></span><label for="id-show_qs"><input type="checkbox" rel="update" name="show_qs" id="id-show_qs" class="toggle_master qs">quality scores</label></span><a href="#" class="toggle_master show_rid plink">advanced options</a></span><br><div class="toggle_slave show_rid hid" id="customize">
+<a href="#" class="toggle_master show_rid plink" style="float:right;">Hide</a><div id="read-ctrl">
+<label for="id-show_read"><input type="checkbox" rel="update" name="show_read" id="id-show_read" class="toggle_master customize-rid">Read</label><div>
+<label for="id_x3"><input type="radio" name="space" value="base" rel="update" id="id_x3" checked> base space</label><label for="id_x4"><input type="radio" name="space" value="color" rel="update" id="id_x4"> color space</label>
+</div>
+<div id="show_separated"><label for="id_x5"><input type="checkbox" name="rid_split" class="toggle_master rid" rel="update" id="id_x5" checked> show separated reads</label></div>
+<div><span class="toggle_slave qs hid"><label for="id-show_qsb"><input type="checkbox" rel="update" name="show_qsb" id="id-show_qsb">quality score with bases</label></span></div>
+<div id="clip_info" style="display:none"><label for="id-clip_info"><input type="checkbox" rel="update" name="clip_info" id="id-clip_info">show clipped</label></div>
+<div id="show_qs4">
+<label for="id-show_qs4"><input type="checkbox" rel="update" name="show_qs4" id="id-show_qs4" class="toggle_master qs4">show 4 channel quality score</label><span style="margin-left:0.2em;" class="toggle_slave qs4 hid"><label for="id-show_qs4b"><input type="checkbox" rel="update" name="show_qs4b" id="id-show_qs4b">with bases</label></span>
+</div>
+</div>
+<div id="graph-ctrl"><label for="id-show_graph"><input type="checkbox" rel="update" name="show_graph" id="id-show_graph">Intensity graph</label></div>
+<div id="sig-ctrl"><label for="id-show_sig_table"><input type="checkbox" rel="update" name="show_sig_table" id="id-show_sig_table">Signals table</label></div>
+</div>
+</td>
+</tr>
+<tr>
+<td id="spot-list" valign="top"></td>
+<td valign="top" width="75%">
+<div id="spot-data"> </div>
+<div id="spot-graph">
+<h1>Intensity graph</h1>
+<div id="spot-graph-img"></div>
+</div>
+<div id="spot-sig-table"> </div>
+</td>
+</tr>
+</table>
+</div>
+</form></div>
+</div>
+</div><div id="footer">
+<div id="footer-links">
+<ul class="pipelist2l">
+<li><strong><a href="#mail_form" id="mail_form_send">Write to the Help Desk</a></strong></li>
+<li><a href="https://www.nih.gov/about/privacy.htm">Privacy Notice</a></li>
+<li><a href="https://www.nih.gov/about/disclaim.htm">Disclaimer</a></li>
+<li><a href="https://www.nih.gov/about/access.htm">Accessibility</a></li>
+</ul>
+<ul class="pipelist2l">
+<li><a href="https://www.ncbi.nlm.nih.gov/">National Center for Biotechnology Information</a></li>
+<li><a href="https://www.nlm.nih.gov/">U.S. National Library of Medicine</a></li>
+</ul>
+<ul id="banners">
+<li><a href="https://www.nih.gov/" id="link_nih">National Institute of Health</a></li>
+<li><a href="https://www.hhs.gov/" id="link_dhhs">United States Department of Health and Human Services</a></li>
+<li><a href="http://www.firstgov.gov/" data-ignore-http="true" id="link_firstgov">FirstGov.gov: The U.S. Government's Official Web Portal</a></li>
+</ul>
+</div>
+<div id="page-updated"><span id="last-updated">Last update: Fri May  8 15:05:51 EDT 2020</span></div>
+<form id="mail_form" class="hid" action="/Traces/mailer.cgi?">
+<p><em>
+                        In the form below please describe the problem that you
+                        encountered. We will do our best to fix it as soon as possible.
+                    </em></p>
+<p><label for="e-mail"><span>E-mail:</span><input name="email" type="text" size="25" value="" id="e-mail"></label></p>
+<p><label for="subj"><span>Subject:</span><input name="subject" type="text" size="25" value="" id="subj"></label></p>
+<p><label for="mess"><span>Message:</span><textarea name="message" cols="25" rows="15" id="mess"> </textarea></label></p>
+<p><button id="mail_form_send_btn" type="button">Send</button><button id="mail_form_close_btn" type="button">Close</button></p>
+</form>
+</div></body></html>
