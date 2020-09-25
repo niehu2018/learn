@@ -2,9 +2,10 @@ library(shiny)
 
 # Define UI
 ui <- fluidPage(
-    titlePanel("Hello Shiny!"),
+    titlePanel("title panel"),
+    
     sidebarLayout(
-        sidebarPanel(),
-        mainPanel()
+        sidebarPanel("sidebar panel"),
+        mainPanel("main panel")
     )
 )
